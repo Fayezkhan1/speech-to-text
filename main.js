@@ -1,4 +1,4 @@
-const txtBox=document.getElementById("txt-box")
+const txtBox=document.getElementById("txt-box")//cannot create one more element using 
 const btn=document.getElementById("btn")
 
 btn.addEventListener('click',function(){
